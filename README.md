@@ -1,46 +1,41 @@
-# 🌌𝐀𝐋𝐏𝐇𝐀𝐂𝐉 𝐌𝐃
+   𝗖𝗥𝗜𝗦𝗦 𝗔𝗜 𝗠𝗨𝗟𝗧𝗜 𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣 𝗕𝗢𝗧
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-<div align="center"> 
-  <a href="https://git.io/typing-svg"> 
-    <img src="https://readme-typing-svg.demolab.com?font=Rockwell&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=Alpha-Official;Multi+Device+Whatsapp+Bot;Made+by+ceejay" alt="Typing SVG" />
-  </a> 
-</div> 
-
-<div align="center"> 
-  <a href=""> 
-    <img src="https://files.catbox.moe/3ugi2g.jpeg" alt="ALPHACJ MD" height="300"> 
-  </a> 
-</div>
-
-
----
-1. 𝐅𝐎𝐑𝐊 𝐀𝐋𝐏𝐇𝐀𝐂𝐉 𝐌𝐃
-<div align="center">
-  <a href="https://github.com/alphacj-md/Alphacj/fork">
-    <img src="https://img.shields.io/badge/Fork%20Alphacj %20Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkblue&color=darkblue" alt="FORK REPO"/>
+<p align="left">
+  <a href="https://github.com/criss-vevo">
+    <img alt="criss-vevo logo"  src="https://files.catbox.moe/b4khnd.jpg">
   </a>
-</div>
-
-2. 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃 𝐙𝐈𝐏 𝐅𝐈𝐋𝐄  
-<p align="center">
-    <a href="https://codeload.github.com/alphacj-md/Alphacj/zip/refs/heads/main" target="_blank">
-        <img alt="Download zip" src="https://img.shields.io/badge/ALPHACJ MD FILE%20 FILE-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkorange&color=purple"/>
-    </a>
 </p>
 
-3. SESSION SITE
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-<div align="center">
-  <a href="https://junesession-3843c7507ad7.herokuapp.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Alpha%20Session%20pair-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkblue&color=darkred" alt="PAIR"/>
-  </a>
-</div>
 
-DEPLOY NOW ON ALL PANELS
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=The+bot+supports+deployment;on+all+Free+Panels+easily)](https://git.io/typing-svg)
+#### SETUP 
 
-- 1.  Bothosting.
-- 2.  Katabump.
-- 3.  Solarhosting.net.
-- 4.  Optiklink
-- 5.  Daki.cc
+
+<p align="left">
+<a href="https://github.com/criss-vevo/CRISS-AI/fork"><img src="https://img.shields.io/badge/Fork-white" alt="𝐅𝐨𝐫𝐤" width="100"></a>
+
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+ <p align="left">
+<a href="https://shorturl.at/UUWem"><img src="https://img.shields.io/badge/Pair%20session%20code-white" alt="𝐏𝐚𝐢𝐫 𝐬𝐞𝐬𝐬𝐢𝐨𝐧 𝐜𝐨𝐝𝐞" width="300"></a>
+
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+
+<p align="left">
+<a href="https://criss-ai.vercel.app" target="_blank"><img title="DEPLOY-ON HEROKU" src="https://img.shields.io/badge/DEPLOY%20ON%20HEROKU-white" alt="Heroku" width="300"></a>
+</p>
+  
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+
+  
+
+[![JOIN WHATSAPP GROUP](https://raw.githubusercontent.com/Neeraj-x0/Neeraj-x0/main/photos/suddidina-join-whatsapp.png)](https://whatsapp.com/channel/0029Vb0HIV2G3R3s2II4181g)
+
+ 
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
